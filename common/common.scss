@@ -270,6 +270,7 @@ div.footnote-tooltip-content .iframe-expand-icon {
 /* Box-Shadow Divs */
 div[data-theme-boxed] {
     margin: 0 auto;
+    width: fit-content;
     margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
