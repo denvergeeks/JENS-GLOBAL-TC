@@ -75,6 +75,11 @@ img#site-logo.logo-small {
   display: none;
 }
 
+/* make image alignment tc play nicer with image grid */
+.d-image-grid:not([data-disabled])[data-columns] {
+    clear: both;
+}
+
 /* everything below is some extra customization */
 
 #footnote-tooltip {
