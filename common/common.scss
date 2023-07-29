@@ -245,7 +245,7 @@ div.footnote-tooltip-content .iframe-expand-icon {
 
 /* Scrollable Content Box Shadow */
 .scrollable-content {
-    margin: 0 10px 10px;
+
     border-left: 0;
     background-color: var(--secondary) !important;
     padding: 1em 0.5em 1em 1em !important;
@@ -271,7 +271,6 @@ div.footnote-tooltip-content .iframe-expand-icon {
 div[data-theme-boxed] {
     margin: 0 auto;
     width: fit-content;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -282,7 +281,6 @@ div[data-theme-boxed] {
 div[data-theme-boxed-95] {
     margin: 0 auto;
     width: 95%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -293,7 +291,6 @@ div[data-theme-boxed-95] {
 div[data-theme-boxed-90] {
     margin: 0 auto;
     width: 90%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -304,7 +301,6 @@ div[data-theme-boxed-90] {
 div[data-theme-boxed-85] {
     margin: 0 auto;
     width: 85%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -315,7 +311,6 @@ div[data-theme-boxed-85] {
 div[data-theme-boxed-80] {
     margin: 0 auto;
     width: 80%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -326,7 +321,6 @@ div[data-theme-boxed-80] {
 div[data-theme-boxed-75] {
     margin: 0 auto;
     width: 75%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -337,7 +331,6 @@ div[data-theme-boxed-75] {
 div[data-theme-boxed-70] {
     margin: 0 auto;
     width: 70%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -348,7 +341,6 @@ div[data-theme-boxed-70] {
 div[data-theme-boxed-66] {
     margin: 0 auto;
     width: 66.666%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -359,7 +351,6 @@ div[data-theme-boxed-66] {
 div[data-theme-boxed-65] {
     margin: 0 auto;
     width: 65%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -370,7 +361,6 @@ div[data-theme-boxed-65] {
 div[data-theme-boxed-60] {
     margin: 0 auto;
     width: 60%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -381,7 +371,6 @@ div[data-theme-boxed-60] {
 div[data-theme-boxed-55] {
     margin: 0 auto;
     width: 55%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -392,7 +381,6 @@ div[data-theme-boxed-55] {
 div[data-theme-boxed-50] {
     margin: 0 auto;
     width: 50%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -403,7 +391,6 @@ div[data-theme-boxed-50] {
 div[data-theme-boxed-45] {
     margin: 0 auto;
     width: 45%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -414,7 +401,6 @@ div[data-theme-boxed-45] {
 div[data-theme-boxed-40] {
     margin: 0 auto;
     width: 40%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -425,7 +411,6 @@ div[data-theme-boxed-40] {
 div[data-theme-boxed-35] {
     margin: 0 auto;
     width: 35%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -436,7 +421,6 @@ div[data-theme-boxed-35] {
 div[data-theme-boxed-33] {
     margin: 0 auto;
     width: 33.333%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -447,7 +431,6 @@ div[data-theme-boxed-33] {
 div[data-theme-boxed-30] {
     margin: 0 auto;
     width: 30%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -458,7 +441,6 @@ div[data-theme-boxed-30] {
 div[data-theme-boxed-25] {
     margin: 0 auto;
     width: 25%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -469,7 +451,6 @@ div[data-theme-boxed-25] {
 div[data-theme-boxed-20] {
     margin: 0 auto;
     width: 20%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -480,7 +461,6 @@ div[data-theme-boxed-20] {
 div[data-theme-boxed-15] {
     margin: 0 auto;
     width: 15%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -491,7 +471,6 @@ div[data-theme-boxed-15] {
 div[data-theme-boxed-10] {
     margin: 0 auto;
     width: 10%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
@@ -502,7 +481,6 @@ div[data-theme-boxed-10] {
 div[data-theme-boxed-5] {
     margin: 0 auto;
     width: 5%;
-    margin: 0 10px 10px;
     border-left: 0;
     background-color: var(--secondary);
     padding: 1em;
