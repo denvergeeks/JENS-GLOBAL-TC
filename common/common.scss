@@ -80,7 +80,7 @@ img#site-logo.logo-small {
     clear: both;
 }
 
-/* everything below is some extra customization */
+/********************** everything below is some extra customization ****************************/
 
 #footnote-tooltip {
   border: 1px solid var(--primary-medium);
@@ -271,6 +271,14 @@ div.footnote-tooltip-content .iframe-expand-icon {
     margin-top: 0 !important;
     margin-bottom: 0.5rem !important;
 }
+
+
+
+.cooked div[data-masonry-gallery], .d-editor-preview div[data-masonry-gallery] {
+    clear: both;
+    align-content: center;
+}
+
 
 /* Box-Shadow Divs */
 div[data-theme-boxed] {
