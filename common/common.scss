@@ -1,6 +1,22 @@
 /* iframe slide-ins */
 
 div[data-theme-slidein] {
+    position: fixed;
+    top: 0;
+    visibility: hidden;
+    background: #0000007d;
+    z-index: 1000000;
+    border-color: #fff;
+    border-left: none;
+    -moz-box-shadow: -5px 0 5px #00000030;
+    -webkit-box-shadow: -5px 0 5px #00000030;
+    box-shadow: -5px 0 5px #00000030;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*
+div[data-theme-slidein] {
   overflow:hidden;
   box-shadow: 0 1.36px 8.896px #c4b59d, 0 0 1px !important;
   border-radius: 4px;
@@ -22,7 +38,7 @@ div[data-theme-slidein] {
     height: 440px !important;
   }
 }
-
+*/
 
 /* Global Tweaks */
 /* 
