@@ -191,8 +191,10 @@ div.cooked iframe.pdf-preview {
 
 div.cooked iframe {
   /*  height:450px; */
-    height:340px;
-    width:100%;
+    /* height:340px; */
+    height: 500px;
+    /* width:100%; */
+    width: -webkit-fill-available;
     border:0 none;
     box-shadow: 0 1.36px 8.896px #c4b59d, 0 0 1px !important;
     border-radius: 4px;
