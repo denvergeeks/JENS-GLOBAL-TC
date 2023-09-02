@@ -218,14 +218,17 @@ details iframe {
     width: -moz-available !important;
 }
 
-
-
 .iframe-expand-btn {
     padding: 5px;
     top: 20px;
     right: -7px;
     background-color: #fff !important;
     border-radius: 25px !important;
+}
+
+details iframe .iframe-expand-btn {
+    top: -15px;
+    left: -20px;
 }
 
 button.btn.btn-default.iframe-expand-btn.no-text:hover,
