@@ -190,11 +190,14 @@ div.cooked iframe.pdf-preview {
 
 
 div.cooked iframe {
-  /*  height:450px; */
-    /* height:340px; */
-    height: 500px;
-    /* width:100%; */
-    width: -webkit-fill-available;
+    /* height:450px; */
+    height:340px;
+    /* height: 500px; */
+    width:100%;
+    /*
+    width: -webkit-fill-available !important;
+    width: -moz-available; !important;
+    */
     border:0 none;
     box-shadow: 0 1.36px 8.896px #c4b59d, 0 0 1px !important;
     border-radius: 4px;
@@ -205,7 +208,11 @@ div.cooked iframe {
    /* margin: -75px 0 -10px 0 !important; */
 }
 
-
+details iframe {
+    height: 500px;
+    width: -webkit-fill-available !important;
+    width: -moz-available; !important;
+}
 
 
 
