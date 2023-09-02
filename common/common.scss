@@ -226,7 +226,8 @@ details iframe {
     border-radius: 25px !important;
 }
 
-details iframe .iframe-expand-btn {
+details button.btn.btn-default.iframe-expand-btn,
+details iframe.iframe-expand-btn {
     top: -15px;
     left: -20px;
 }
