@@ -208,6 +208,10 @@ div.cooked iframe {
    /* margin: -75px 0 -10px 0 !important; */
 }
 
+.composer-help-modal .modal-inner-container {
+    flex: 1 1 auto !important;
+}
+
 details iframe {
     height: 500px;
     width: -webkit-fill-available !important;
