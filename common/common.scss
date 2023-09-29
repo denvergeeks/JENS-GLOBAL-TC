@@ -274,12 +274,12 @@ div.footnote-tooltip-content .iframe-expand-icon {
 
 /* Scrollable Content Box Shadow */
 .scrollable-content {
-
-    border-left: 0;
+    border-left: none !important;
     background-color: var(--secondary) !important;
     padding: 1em 0.5em 1em 1em !important;
     box-shadow: 0 1.36px 8.896px #c4b59d, 0 0 1px !important;
-    border-radius: 4px;
+    border-radius: 4px !important;
+    margin: 0 8.896px !important;
 }
 
 .scrollable-content-inner {
