@@ -1,4 +1,9 @@
 /* Global Tweaks */
+
+.sidebar-footer-actions {
+  width: calc(100% - 2px);
+}
+
 /* 
 img#site-logo.logo-small {
     border-radius: 50% !important;
